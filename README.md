@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @cyberkiwii
-- 👀 I’m interested in IT. I enjoy programming for fun.
-- 🌱 I’m studying cyber security at a vocational school and am working toward getting my Security+ certification. I am also taking a programming class at school learning some python, java, and HTML.
+Hi, I'm Gracie.
+I am a high school senior and future Cyber Security professional. 
+
+I also enjoy doing programming projects and work with languages such as Python, Java, HTML, CSS, and JavaScript. 
 
 <!---
 cyberkiwii/cyberkiwii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
